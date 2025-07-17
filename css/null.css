@@ -1,0 +1,30 @@
+*{ 
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url(../Fonts/Inter/Inter-Medium.otf);
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url(../Fonts/Inter/Inter-Regular.otf);
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url(../Fonts/Inter/Inter-SemiBold.otf);
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'RF Dewi Extended';
+    src: url(../Fonts/RFDewi/RFDewiExtended-Ultrabold.ttf);
+    font-weight: 800;
+    font-style: normal;
+}
